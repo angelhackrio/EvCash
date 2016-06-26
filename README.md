@@ -3,7 +3,7 @@
 
 Nome do projeto: EvCash
 
-Categoria: Fintech
+Categoria: Fintech, impacto social, inovação
 
 Público-alvo: Jovens e adultos
 
